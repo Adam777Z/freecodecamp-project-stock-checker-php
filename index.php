@@ -349,8 +349,8 @@ function add_stock_like( $stock ) {
 						</ul>
 						<h3>Example return:</h3>
 						<p>
-							<code>[ { "stock": "GOOG", "price": 0, "likes": 0 } ]</code><br>
-							<code>[ { "stock": "GOOG", "price": 0, "likes": 0, "rel_likes": 0 }, { "stock": "MSFT", "price": 0, "likes": 0, "rel_likes": 0 } ]</code>
+							<code>[{"stock":"GOOG","price":0,"likes":0}]</code><br>
+							<code>[{"stock":"GOOG","price":0,"likes":0,"rel_likes":0},{"stock":"MSFT","price":0,"likes":0,"rel_likes":0}]</code>
 						</p>
 					</div>
 
